@@ -58,6 +58,3 @@ Demo videos are included in the `demo` folder if file size allows.
 
 ### Class Diagram
 ![Class Diagram](images/class-diagram.png)
-
-## Author
-Isabel Jacobs
